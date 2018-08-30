@@ -4,9 +4,9 @@
 
 ## Related Projects
 
-  - https://github.com/HalalGuys/photos
-  - https://github.com/HalalGuys/reviews
-  - https://github.com/HalalGuys/listing-details
+  - https://github.com/Vacationly/photos
+  - https://github.com/Vacationly/reviews
+  - https://github.com/Vacationly/listing-details
 
 ## Table of Contents
 
